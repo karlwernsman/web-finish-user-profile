@@ -72,3 +72,5 @@ export async function getProfiles() {
 
 //     return url;
 // }
+
+//Adding code since part D was just adding RLS and there is nothing new in here to commit"//
